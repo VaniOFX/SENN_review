@@ -1,2 +1,5 @@
-conda:
-  file: environment.yml
+python:
+    pip_install: true
+    extra_requirements:
+        - numpydoc
+        - sphinx_rtd_theme
