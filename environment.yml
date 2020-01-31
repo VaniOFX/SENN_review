@@ -17,4 +17,6 @@ dependencies:
   - pandas
   - scikit-learn
   - jupyter
+  - numpydoc
+  - sphinx_rtd_theme
 
