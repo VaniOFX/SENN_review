@@ -1,5 +1,1 @@
-python:
-    pip_install: true
-    extra_requirements:
-        - numpydoc
-        - sphinx_rtd_theme
+requirements_file: docs/requirements.txt
